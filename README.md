@@ -6,7 +6,7 @@ The final objective is to develop a trained model which is capable of detecting 
 
 # Content
 In this repository two notebooks can be found:
--	The "Vasculomics_preprocessing" file there is the notebook where all the preprocessing of the images, from an original DICOM file, which has been carried out to obtain two final files, one with the pathologic images and one with the healthy ones.
+-	The ##Vasculomics_preprocessing## file there is the notebook where all the preprocessing of the images, from an original DICOM file, which has been carried out to obtain two final files, one with the pathologic images and one with the healthy ones.
 -	In the "Vasculomics_DL" file there is the code related to loading the dataset, model definition and training, application of explainability methods and model validation.
 
 In oder to run the previous notebooks, you will need to have previously downloaded the following files:
