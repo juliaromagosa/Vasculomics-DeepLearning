@@ -10,7 +10,7 @@ In this repository two notebooks can be found:
 -	In the  *Vasculomics_DL*  file there is the code related to loading the dataset, model definition and training, application of explainability methods and model validation.
 
 In oder to run the previous notebooks, you will need to have previously downloaded the following files:
-- A zip folder with the dataset, structured in two NumPy files; *npy_avm.npy* with the images labeled as * *AVM* * and * *npy_normal.npy* * with the ones labeled as *healthy*. This data can be found in a zip file in the download link: X. 
+- A zip folder with the dataset, structured in two NumPy files; *npy_avm.npy* with the images labeled as *AVM* and *npy_normal.npy* with the ones labeled as *healthy*. This data can be found in a zip file in the download link: X. 
 -	A zip folder named *models* with all the models already trained. This data can be found in a zip file in the download link: X. 
 
 # Notes
