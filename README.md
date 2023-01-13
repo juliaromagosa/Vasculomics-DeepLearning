@@ -12,6 +12,7 @@ In this repository two notebooks can be found:
 In oder to run the previous notebooks, you will need to have previously downloaded the following files:
 - A zip folder with the dataset, structured in two NumPy files; *npy_avm.npy* with the images labeled as *AVM* and *npy_normal.npy* with the ones labeled as *healthy*.
 -	A zip folder named *models* with all the models already trained.
+
 This data is not available due to confidential data protection. However, it can be requested to X
 
 # Notes
