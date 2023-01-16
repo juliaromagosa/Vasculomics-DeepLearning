@@ -13,7 +13,7 @@ In oder to run the previous notebooks, you will need to have previously download
 - A zip folder with the dataset, structured in two NumPy files; *npy_avm.npy* with the images labeled as *AVM* and *npy_normal.npy* with the ones labeled as *healthy*.
 -	A zip folder named *models* with all the models already trained.
 
-This data is not available due to confidential data protection. However, it can be requested to X
+This data is not available due to confidential data protection. However, it can be requested to Dr. Josep Munuera of Hospital Sant Joan de Déu, E-mail: josep.munuera@sjd.es
 
 # Notes
 To execute the code, you need to have a platform that accepts the IPYNB extension. There is also the option to open the file automatically on Google Collaboratory. Access the notebook of interest and at the top you will see the button "Open in Colab" which takes you directly to the platform.
